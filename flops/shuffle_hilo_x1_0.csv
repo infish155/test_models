@@ -1,0 +1,8 @@
+shape,FLOPs,MACs,Parameters
+"(16, 3, 224, 224)",5.6572 GFLOPS,2.7827 GMACs,2.5144 M
+shape,FLOPs,MACs,Parameters
+"(16, 3, 224, 224)",5.6572 GFLOPS,2.7827 GMACs,2.5144 M
+shape,FLOPs,MACs,Parameters
+"(16, 3, 224, 224)",5.6572 GFLOPS,2.7827 GMACs,2.5144 M
+shape,FLOPs,MACs,Parameters
+"(16, 3, 640, 640)",45.9463 GFLOPS,22.5986 GMACs,2.5144 M

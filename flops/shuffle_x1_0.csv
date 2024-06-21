@@ -1,0 +1,2 @@
+shape,FLOPs,MACs,Parameters
+"(16, 3, 640, 640)",38.3619 GFLOPS,18.8094 GMACs,2.2786 M
